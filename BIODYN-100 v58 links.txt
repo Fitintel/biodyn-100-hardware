@@ -2,7 +2,7 @@ https://www.digikey.ca/en/products/detail/espressif-systems/ESP32-S3FN8/15822446
 https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RNCF0402BTE10K0/1710765
 https://www.digikey.ca/en/products/detail/murata-electronics/GRM033C70J104KE14D/8323487
 https://www.digikey.ca/en/products/detail/murata-electronics/GRM033R70J103KA01D/587251
-https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL03A105MQ3CSNC_Spec.pdf
+https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL03A105MQ3CSNC/3886983
 https://www.digikey.ca/en/products/detail/murata-electronics/LQP03TN2N0B02D/2391741
 https://www.digikey.ca/en/products/detail/kemet/C0603C106M9PACTU/1950664
 https://www.digikey.ca/en/products/detail/stackpole-electronics-inc/RNCF0402BTE10K0/1710765
@@ -35,7 +35,6 @@ https://www.digikey.ca/en/products/detail/murata-electronics/GRM033R70J103JA01D/
 https://www.digikey.ca/en/products/detail/delevan/P3519R-102J/4895139?s=N4IgjCBcoMxaBjKAzAhgGwM4FMA0IB7KAbRACYBWABjnzADYAOAFhDrBggF18AHAFyggAyvwBOASwB2AcxABfOgE5GS%2BCCSQ0WPIRIgqILovJVGAdnWbtOfEUikwAAgCtACSN9BkEAFUpEvwA8sgAstiomACuYtgK%2BGRmjOoCQv6BIeGRMXH4UUIAgmwgALbSQmTxIAC0ldAaUOJRuvakFEYm1fRWjWLNdvq05B0mdaTSACZRCPwEYh1AA
 https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL21A226KQCLRNC/5961171
 https://www.digikey.ca/en/products/detail/onsemi/NCP167BMX330TBG/9169761
-https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/41/CL03A105MQ3CSNC_Spec.pdf
 https://www.digikey.ca/en/products/detail/texas-instruments/TPS65130RGER/660211
 https://www.digikey.ca/en/products/detail/susumu/HRG3216P-3000-B-T1/5763336?s=N4IgjCBcoExaBjKAzAhgGwM4FMA0IB7KAbXBjHIE4QBdfABwBcoQBlRgJwEsA7AcxABffAGZ4IJJDRY8hEiADsIiHRBMW7bvyH4wlABzVoElBhz4ikUgAZawkDGv6ArOMnTzcqyBHXrAAgB5AAsAW0xaBmZIEABVHi5GQOQAWWxUTABXDmwdEABaOGNJTkzZS1JXGnt8gDY3KFLy%2BTFq%2ByLSTFCAE38czC5MRgIOOyA
 https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL10B475KQ8NQNC/3887745
